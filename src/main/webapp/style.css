@@ -1,0 +1,188 @@
+.ciano {
+    color: #03738C;
+}
+.nav-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 20px;
+}
+.img-links {
+    display: flex;
+}
+.login {
+    display: flex;
+    
+
+}
+
+.login > a {
+    margin-right: 25px;
+}
+
+.links-menu {
+    padding: 15px;
+}
+
+
+
+
+.green {
+    background-color: #5ec1a5;
+}
+
+.center {
+    text-align: center;
+}
+
+.btn-mais {
+    background-color: #6CD9BA;
+    color: #03738C;
+}
+
+.cards-destino {
+    background-color: #e1fbf4;
+    margin-top: 20px;
+}
+
+.card-img-top {
+    margin-top: 10px;
+    width: 16rem;
+    max-height: 10rem;
+}
+
+.banners img {
+    max-width: 40rem;
+    padding: 20px;
+}
+
+.banner-1,
+.banner-2 {
+    position: relative;
+}
+
+#txt-img {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    max-width: 550px;
+    text-align: center;
+
+}
+
+.banners a {
+    color: #eee;
+    font-size: 27px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.banners a:hover {
+    text-decoration: none;
+}
+
+
+.banners {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.novidades form {
+    display: flex;
+    height: 200px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.novidades {
+    box-shadow: rgb(37 37 39 / 25%) 0.5rem 0.5rem 2rem 0px;
+    background-color: #e1fbf4;
+    padding: 10px;
+}
+
+.novidades div {
+    min-width: 100px;
+    max-width: 200px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.carrossel {
+    display: flex;
+    justify-content: center;
+}
+
+.carrossel>div {
+    width: 85%;
+}
+
+.carrossel img {
+    height: 500px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e1fbf4;
+    padding: 50px;
+    text-align: center;
+}
+
+.card {
+    box-shadow: rgb(37 37 39 / 25%) 0.5rem 0.5rem 2rem 0px;
+}
+
+.promos {
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo {
+    display: flex;
+    padding: 20px;
+    box-shadow: rgb(37 37 39 / 25%) 0.5rem 0.5rem 2rem 0px;
+    margin-bottom: 40px;
+
+}
+
+.texto-promo {
+    margin: 0 20px;
+}
+
+.promo-dir {
+    box-shadow: rgb(37 37 39 / 25%) -0.5rem 0.5rem 2rem 0px;
+
+}
+
+.imagem img {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.promos a {
+    text-decoration: none;
+    color: #03738C;
+}
+
+.cadastro {
+    width: 50%;
+}
+
+.conteudo:hover {
+    background-color: #5ec1a5;
+    color: #fff;
+    transition: 0.5s;
+}
+
+
+footer {
+    position: relative;
+    margin-top: 100px;
+}
+
+.bg-image {
+    background-size: cover;
+}
